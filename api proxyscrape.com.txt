@@ -1,0 +1,6 @@
+ list  : https://api.proxyscrape.com/v2/?request=getproxies&protocol=socks
+
+http proxies : https://api.proxyscrape.com/v2/?request=getproxies&protocol=http
+socks4 proxies : https://api.proxyscrape.com/v2/?request=getproxies&protocol=socks4
+socks 5 proxies : https://api.proxyscrape.com/v2/?request=getproxies&protocol=socks5
+all proxies : https://api.proxyscrape.com/v2/?request=getproxies&protocol=all
